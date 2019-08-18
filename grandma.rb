@@ -14,5 +14,5 @@
 
 
 def speak_to_grandma(text)
-  if 
+  if text == text
 end 
